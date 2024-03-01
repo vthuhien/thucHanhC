@@ -1,0 +1,2 @@
+﻿  luyentap.cpp
+C:\Users\admin\source\luyentap\luyentap.cpp(12,1): error C4700: uninitialized local variable 'year' used
