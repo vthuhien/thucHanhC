@@ -1,0 +1,4 @@
+﻿  luyentap3.cpp
+C:\Users\admin\source\luyentap3\luyentap3.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\admin\source\luyentap3\luyentap3.cpp(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  luyentap3.vcxproj -> C:\Users\admin\source\luyentap3\x64\Debug\luyentap3.exe
